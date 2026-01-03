@@ -1,0 +1,11 @@
+{
+  "name": "claude-registry",
+  "description": "A community marketplace of Claude Code plugins for productivity, code quality, and developer workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stanislav Serebrennikov"
+  },
+  "license": "MIT",
+  "keywords": ["claude-code", "plugins", "marketplace", "productivity"],
+  "repository": "https://github.com/Goodsmileduck/goodsmileduck-claude-registry"
+}
