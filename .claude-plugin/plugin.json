@@ -1,11 +1,19 @@
 {
   "name": "claude-registry",
-  "description": "A community marketplace of Claude Code plugins for productivity, code quality, and developer workflows",
   "version": "1.0.0",
+  "description": "A community marketplace of Claude Code plugins for productivity, code quality, and developer workflows",
   "author": {
-    "name": "Stanislav Serebrennikov"
+    "name": "Stanislav Serebrennikov",
+    "url": "https://github.com/Goodsmileduck"
   },
+  "homepage": "https://github.com/Goodsmileduck/goodsmileduck-claude-registry",
+  "repository": "https://github.com/Goodsmileduck/goodsmileduck-claude-registry",
   "license": "MIT",
-  "keywords": ["claude-code", "plugins", "marketplace", "productivity"],
-  "repository": "https://github.com/Goodsmileduck/goodsmileduck-claude-registry"
+  "keywords": [
+    "claude-code",
+    "plugins",
+    "marketplace",
+    "productivity",
+    "developer-tools"
+  ]
 }
